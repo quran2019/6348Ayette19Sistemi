@@ -58,6 +58,7 @@ CountersInit
 KeyCodingsBased
 KeySysNoLett
 EvOddEven
+Evidences
 EvFatihah
 MainRulesDecEV
 EvSilence
