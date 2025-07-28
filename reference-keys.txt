@@ -108,6 +108,7 @@ CodeChapVerseLetters
 CodeChapVerseLettersPerword
 SevenPairsLettPerWord
 SevenPairsSubjectiveExperience
+alFatihaSubjectiveExperience
 AllKeyOverallProbFinal
 RelVersMean
 RelVers8320
