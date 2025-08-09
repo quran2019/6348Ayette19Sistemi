@@ -48,6 +48,7 @@ Fact1
 FactUniques
 Coulditbe
 RulesProbs
+Rules
 Ruleobtaintext
 Probs
 Test19
@@ -115,7 +116,7 @@ RelVers8320
 RelVers1038
 SumMainEv
 EvAllahAlRahmanPositionsMain
-EvAllahElRahmanPozBirlestir
+EvAllahAlRahmanPosConcat
 numaralı-ayetler-üzerinde-allah-kelimelerinin-pozisyonlarına-dair-delil
 tüm-6348-ayet-üzerinde-allah-kelimelerinin-pozisyonlarına-dair-delil
 gerçek-tüm-allah-kelimelerinin-pozisyon-indeksleri-bir-arada
